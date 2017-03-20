@@ -10,6 +10,6 @@ San Francisco Street Cleaning Requests Analysis | Statistics 141B -  Data & Web 
 [Geographic Plotting and SQL in San Francisco](https://katherineolson.github.io/assignment6.html)| Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Homework | Python 
 [Web Scraping and Natural Language Processing of The California Aggie](https://katherineolson.github.io/assignment5.html)| Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Homework | Python
 [Using the API of The USDA Food Composition Databases for For Analyzing Fruit and Vegetable Nutrition](https://katherineolson.github.io/assignment4.html)| Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Homework | Python
-[](https://katherineolson.github.io/assignment3.html)| Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Homework | Python
-[](https://katherineolson.github.io/assignment2.html)| Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Homework | Python
-[](https://katherineolson.github.io/assignment1.html)| Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Homework | Python
+[Reading Files and Fruit and Vegetable Analysis](https://katherineolson.github.io/assignment3.html)| Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Homework | Python
+[Image Processing Basics and Singular Value Decomposition](https://katherineolson.github.io/assignment2.html)| Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Homework | Python
+[The Doomsday Algorithm and 1978 Births](https://katherineolson.github.io/assignment1.html)| Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Homework | Python
