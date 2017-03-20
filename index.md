@@ -18,4 +18,4 @@ San Francisco Street Cleaning Requests Analysis | Statistics 141B -  Data & Web 
 [Time Series EDA on Monthly Deaths from Bronchitis, Emphysema and Asthma in the UK](https://katherineolson.github.io/Project2.pdf)| Statistics 137 - Applied Time Series Analysis | Fall 2016 | Project | R
 [Time Series EDA on Yearly “Great” Inventions and Scientific Discoveries](https://katherineolson.github.io/Project1.pdf)| Statistics 137 - Applied Time Series Analysis | Fall 2016 | Project | R
 [t](https://katherineolson.github.io/Project3.pdf)| Math 128 - Numerical Analysis | Fall 2016 | Project | MATLAB
-[t](https://katherineolson.github.io/ProjectII.pdf)| Math 128 - Numerical Analysis | Fall 2016 | Project | MATLAB
+[t](https://katherineolson.github.io/projectII.pdf)| Math 128 - Numerical Analysis | Fall 2016 | Project | MATLAB
