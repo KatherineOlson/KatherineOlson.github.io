@@ -8,7 +8,7 @@ Note: I was only able to show assignments from classes where the projects were l
 
 Name | Class | Quarter Taken | Type | Language
 ------------ | ------------- | ------------- | ------------- | ------------- 
-San Francisco Street Cleaning Requests Analysis | Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Final project | Python 
+[San Francisco Street Cleaning Requests Analysis](https://tjgordon.github.io/141B-Project/) | Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Final project | Python 
 [Geographic Plotting and SQL in San Francisco](https://katherineolson.github.io/assignment6.html)| Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Homework | Python 
 [Web Scraping and Natural Language Processing of The California Aggie](https://katherineolson.github.io/assignment5.html)| Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Homework | Python
 [Using the API of The USDA Food Composition Databases for For Analyzing Fruit and Vegetable Nutrition](https://katherineolson.github.io/assignment4.html)| Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Homework | Python
@@ -21,9 +21,9 @@ San Francisco Street Cleaning Requests Analysis | Statistics 141B -  Data & Web 
 [Time Series EDA on Yearly “Great” Inventions and Scientific Discoveries](https://katherineolson.github.io/Project1.pdf)| Statistics 137 - Applied Time Series Analysis | Fall 2016 | Project | R
 [Approximating Integrals](https://katherineolson.github.io/Project3.pdf)| Math 128 - Numerical Analysis | Fall 2016 | Project | MATLAB
 [Estimating Derivatives](https://katherineolson.github.io/projectII.pdf)| Math 128 - Numerical Analysis | Fall 2016 | Project | MATLAB
-[](https://katherineolson.github.io/141Assignment6) | STA 141 - Statistical Computing | Fall 2015 | Homework | R
-[](https://katherineolson.github.io/141Assignment5) | STA 141 - Statistical Computing | Fall 2015 | Homework | R
-[](https://katherineolson.github.io/141Assignment4) | STA 141 - Statistical Computing | Fall 2015 | Homework | R
-[](https://katherineolson.github.io/141Assignment3) | STA 141 - Statistical Computing | Fall 2015 | Homework | R
-[](https://katherineolson.github.io/141Assignment2) | STA 141 - Statistical Computing | Fall 2015 | Homework | R
-[](https://katherineolson.github.io/141Assignment1) | STA 141 - Statistical Computing | Fall 2015 | Homework | R
+[](https://katherineolson.github.io/141Assignment6) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
+[](https://katherineolson.github.io/141Assignment5) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
+[](https://katherineolson.github.io/141Assignment4) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
+[](https://katherineolson.github.io/141Assignment3) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
+[](https://katherineolson.github.io/141Assignment2) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
+[](https://katherineolson.github.io/141Assignment1) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
