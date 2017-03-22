@@ -23,8 +23,8 @@ Name | Class | Quarter Taken | Type | Language
 [Estimating Derivatives](https://katherineolson.github.io/projectII.pdf)| Math 128 - Numerical Analysis | Fall 2016 | Project | MATLAB
 [Scraping Stack Overflow](https://katherineolson.github.io/141Assignment6.pdf) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
 [Working with the IMDb Database Through SQL](https://katherineolson.github.io/141Assignment5.pdf) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
-[Ceaning Internet Car Adds Data with Regular Expressions](https://katherineolson.github.io/141Assignment4.pdf) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
-[A](https://katherineolson.github.io/141Assignment3.pdf) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
-[A](https://katherineolson.github.io/141Assignment2.pdf) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
-[A](https://katherineolson.github.io/141Assignment1II.pdf) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
-[A](https://katherineolson.github.io/141Assignment1I.pdf) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
+[Cleaning Internet Car Ads Data with Regular Expressions](https://katherineolson.github.io/141Assignment4.pdf) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
+[Digit Classification with KNN and Cross Validation](https://katherineolson.github.io/141Assignment3.pdf) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
+[Reading in Data from a File and Creating Visualizations](https://katherineolson.github.io/141Assignment2.pdf) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
+[Finding Anomalies in Internet Car Ads Data](https://katherineolson.github.io/141Assignment1II.pdf) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
+[Basic Data Frame Manipulation and Visualizations with Car Ads Data](https://katherineolson.github.io/141Assignment1I.pdf) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
