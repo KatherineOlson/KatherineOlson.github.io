@@ -26,4 +26,5 @@ Name | Class | Quarter Taken | Type | Language
 [](https://katherineolson.github.io/141Assignment4) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
 [](https://katherineolson.github.io/141Assignment3) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
 [](https://katherineolson.github.io/141Assignment2) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
-[](https://katherineolson.github.io/141Assignment1) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
+[](https://katherineolson.github.io/141Assignment1II) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
+[](https://katherineolson.github.io/141Assignment1I) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
