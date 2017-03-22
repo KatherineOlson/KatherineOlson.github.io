@@ -15,7 +15,7 @@ Name | Class | Quarter Taken | Type | Language
 [Reading Files and Fruit and Vegetable Analysis](https://katherineolson.github.io/assignment3.html)| Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Homework | Python
 [Image Processing Basics and Singular Value Decomposition](https://katherineolson.github.io/assignment2.html)| Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Homework | Python
 [The Doomsday Algorithm and 1978 Births](https://katherineolson.github.io/assignment1.html)| Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Homework | Python
-[Digit Classification with Two Methods: Centroid and PCA]()| Computer Science 130 -  Scientific Computation | Winter 2017 | Final Project | MATLAB
+[Digit Classification with Two Methods: Centroid and PCA](https://katherineolson.github.io/FinalProject130.pdf)| Computer Science 130 -  Scientific Computation | Winter 2017 | Final Project | MATLAB
 [Time Series EDA on Accidental US Deaths](https://katherineolson.github.io/FinalProject.pdf)| Statistics 137 - Applied Time Series Analysis | Fall 2016 | Final Project | R
 [Time Series EDA on Monthly Deaths from Bronchitis, Emphysema and Asthma in the UK](https://katherineolson.github.io/Project2.pdf)| Statistics 137 - Applied Time Series Analysis | Fall 2016 | Project | R
 [Time Series EDA on Yearly “Great” Inventions and Scientific Discoveries](https://katherineolson.github.io/Project1.pdf)| Statistics 137 - Applied Time Series Analysis | Fall 2016 | Project | R
