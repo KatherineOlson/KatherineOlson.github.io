@@ -21,10 +21,10 @@ Name | Class | Quarter Taken | Type | Language
 [Time Series EDA on Yearly “Great” Inventions and Scientific Discoveries](https://katherineolson.github.io/Project1.pdf)| Statistics 137 - Applied Time Series Analysis | Fall 2016 | Project | R
 [Approximating Integrals](https://katherineolson.github.io/Project3.pdf)| Math 128 - Numerical Analysis | Fall 2016 | Project | MATLAB
 [Estimating Derivatives](https://katherineolson.github.io/projectII.pdf)| Math 128 - Numerical Analysis | Fall 2016 | Project | MATLAB
-[A](https://katherineolson.github.io/141assignment6) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
-[A](https://katherineolson.github.io/141assignment5) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
-[A](https://katherineolson.github.io/141assignment4) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
-[A](https://katherineolson.github.io/141assignment3) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
-[A](https://katherineolson.github.io/141assignment2) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
-[A](https://katherineolson.github.io/141assignment1II) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
-[A](https://katherineolson.github.io/141assignment1I) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
+[A](https://katherineolson.github.io/141Assignment6.pdf) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
+[A](https://katherineolson.github.io/141Assignment5.pdf) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
+[A](https://katherineolson.github.io/141Assignment4.pdf) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
+[A](https://katherineolson.github.io/141Assignment3.pdf) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
+[A](https://katherineolson.github.io/141Assignment2.pdf) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
+[A](https://katherineolson.github.io/141Assignment1II.pdf) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
+[A](https://katherineolson.github.io/141Assignment1I.pdf) | Statistics 141 - Statistical Computing | Fall 2015 | Homework | R
