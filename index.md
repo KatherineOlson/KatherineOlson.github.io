@@ -8,6 +8,12 @@ Note: I was only able to show assignments from classes where the projects were l
 
 Name | Class | Quarter Taken | Type | Language
 ------------ | ------------- | ------------- | ------------- | ------------- 
+[](link) | Statistics 160 -   | Spring 2017 | Final Project | Python & Tableau
+[](link) | Statistics 141C -   | Spring 2017 | Final Project | Python 
+[](link) | Statistics 141C -   | Spring 2017 | Project | Python 
+[](link) | Statistics 141C -   | Spring 2017 | Project | Python 
+[](link) | Statistics 141C -   | Spring 2017 | Project | Python 
+[](link) | Statistics 141C -   | Spring 2017 | Project | Python 
 [San Francisco Street Cleaning Requests Analysis](https://tjgordon.github.io/141B-Project/) | Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Final project | Python 
 [Geographic Plotting and SQL in San Francisco](https://katherineolson.github.io/assignment6.html)| Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Homework | Python 
 [Web Scraping and Natural Language Processing of The California Aggie](https://katherineolson.github.io/assignment5.html)| Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Homework | Python
