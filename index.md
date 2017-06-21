@@ -1,6 +1,6 @@
 # About Me 
 
-I am a senior at UC Davis and I am graduating this June. I am majoring in computational statistics - a statistics major focused on statistical 	computing, programming, and database management. 
+I recently graduated from UC Davis on June 17. I majored in computational statistics - a statistics major focused on statistical 	computing, programming, and database management. 
 
 # Some of My Class Projects and Assignments 
 
@@ -8,6 +8,12 @@ Note: I was only able to show assignments from classes where the projects were l
 
 Name | Class | Quarter Taken | Type | Language
 ------------ | ------------- | ------------- | ------------- | ------------- 
+[](link) | Statistics 160 -   | Spring 2017 | Final Project | Python & Tableau
+[](link) | Statistics 141C -   | Spring 2017 | Final Project | Python 
+[](link) | Statistics 141C -   | Spring 2017 | Project | Python 
+[](link) | Statistics 141C -   | Spring 2017 | Project | Python 
+[](link) | Statistics 141C -   | Spring 2017 | Project | Python 
+[Title](https://katherineolson.github.io/Report1.pdf) | Statistics 141C -   | Spring 2017 | Project | Python 
 [San Francisco Street Cleaning Requests Analysis](https://tjgordon.github.io/141B-Project/) | Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Final project | Python 
 [Geographic Plotting and SQL in San Francisco](https://katherineolson.github.io/assignment6.html)| Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Homework | Python 
 [Web Scraping and Natural Language Processing of The California Aggie](https://katherineolson.github.io/assignment5.html)| Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Homework | Python
