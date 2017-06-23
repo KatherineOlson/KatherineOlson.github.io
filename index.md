@@ -1,6 +1,6 @@
 # About Me 
 
-I recently graduated from UC Davis on June 17. I majored in computational statistics - a statistics major focused on statistical 	computing, programming, and database management. 
+I recently graduated from UC Davis on June 17, 2017. I majored in computational statistics - a statistics major focused on statistical 	computing, programming, and database management. 
 
 # Some of My Class Projects and Assignments 
 
