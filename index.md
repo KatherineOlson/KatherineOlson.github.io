@@ -12,8 +12,8 @@ Name | Class | Quarter Taken | Type | Language
 [Title](link) | Statistics 141C - Big Data & High Performance Statistical Computing | Spring 2017 | Final Project | Python 
 [Title](https://katherineolson.github.io/Report1.pdf) | Statistics 141C - Big Data & High Performance Statistical Computing | Spring 2017 | Project | Python 
 [Ridge Regression, Logistic Regression, and Gradient Descent](https://katherineolson.github.io/Report3.pdf) | Statistics 141C - Big Data & High Performance Statistical Computing | Spring 2017 | Project | Python 
-[Title](https://katherineolson.github.io/Report2.pdf) | Statistics 141C - Big Data & High Performance Statistical Computing | Spring 2017 | Project | Python 
-[Title](https://katherineolson.github.io/Report1.pdf) | Statistics 141C - Big Data & High Performance Statistical Computing | Spring 2017 | Project | Python 
+[The Power Method, the PPMI Matrix, and Word2Vec](https://katherineolson.github.io/Report2.pdf) | Statistics 141C - Big Data & High Performance Statistical Computing | Spring 2017 | Project | Python 
+[Quora Question Pairs](https://katherineolson.github.io/Report1.pdf) | Statistics 141C - Big Data & High Performance Statistical Computing | Spring 2017 | Project | Python 
 [San Francisco Street Cleaning Requests Analysis](https://tjgordon.github.io/141B-Project/) | Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Final project | Python 
 [Geographic Plotting and SQL in San Francisco](https://katherineolson.github.io/assignment6.html)| Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Homework | Python 
 [Web Scraping and Natural Language Processing of The California Aggie](https://katherineolson.github.io/assignment5.html)| Statistics 141B -  Data & Web Technologies for Data Analysis | Winter 2017 | Homework | Python
