@@ -8,7 +8,7 @@ Note: I was only able to show assignments from classes where the projects were l
 
 Name | Class | Quarter Taken | Type | Language
 ------------ | ------------- | ------------- | ------------- | ------------- 
-[Title](link) | Statistics 160 - Practice in Statistical Data Science  | Spring 2017 | Final Project | Python & Tableau
+[Linguistic Partisanship Analysis of U.S Legislators](https://github.com/STA160/mainProject/blob/master/FinalReport.pdf) | Statistics 160 - Practice in Statistical Data Science  | Spring 2017 | Final Project | Python & Tableau
 [Title](link) | Statistics 141C - Big Data & High Performance Statistical Computing | Spring 2017 | Final Project | Python 
 [Parallelizing K-Nearest Neighbors](https://katherineolson.github.io/Report1.pdf) | Statistics 141C - Big Data & High Performance Statistical Computing | Spring 2017 | Project | Python 
 [Ridge Regression, Logistic Regression, and Gradient Descent](https://katherineolson.github.io/Report3.pdf) | Statistics 141C - Big Data & High Performance Statistical Computing | Spring 2017 | Project | Python 
