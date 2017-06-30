@@ -10,7 +10,7 @@ Name | Class | Quarter Taken | Type | Language
 ------------ | ------------- | ------------- | ------------- | ------------- 
 [Linguistic Partisanship Analysis of U.S Legislators](https://github.com/STA160/mainProject/blob/master/FinalReport.pdf) | Statistics 160 - Practice in Statistical Data Science  | Spring 2017 | Final Project | Python & Tableau
 [Modeling San Francisco Arrest Rates by Area and Crime Type](https://github.com/Graym4c/sta141c_project/blob/master/141C_Final_Project_Report.pdf) | Statistics 141C - Big Data & High Performance Statistical Computing | Spring 2017 | Final Project | Python 
-[Parallelizing K-Nearest Neighbors](https://katherineolson.github.io/Report1.pdf) | Statistics 141C - Big Data & High Performance Statistical Computing | Spring 2017 | Project | Python 
+[Parallelizing K-Nearest Neighbors](https://katherineolson.github.io/Report4.pdf) | Statistics 141C - Big Data & High Performance Statistical Computing | Spring 2017 | Project | Python 
 [Ridge Regression, Logistic Regression, and Gradient Descent](https://katherineolson.github.io/Report3.pdf) | Statistics 141C - Big Data & High Performance Statistical Computing | Spring 2017 | Project | Python 
 [The Power Method, the PPMI Matrix, and Word2Vec](https://katherineolson.github.io/Report2.pdf) | Statistics 141C - Big Data & High Performance Statistical Computing | Spring 2017 | Project | Python 
 [Quora Question Pairs](https://katherineolson.github.io/Report1.pdf) | Statistics 141C - Big Data & High Performance Statistical Computing | Spring 2017 | Project | Python 
